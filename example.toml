@@ -1,0 +1,13 @@
+# Copy this file to 'defaults.toml' and modify it as needed.
+
+# Global Org Prefix
+org_prefix = "pfx" # Prefix for organization names
+
+# Azure Defaults
+azure_tenant_id = "your-tenant-id-here"
+azure_subscription_id = "your-subscription-id-here"
+azure_resource_group = "your-resource-group-name-here"
+azure_keyvault_name = "your-keyvault-name-here"
+
+# GitHub Defaults
+github_org = "your-github-org-name-here"
